@@ -26,6 +26,7 @@
 %   Frei, D.M. et al. Novel microscopy-based screening method reveals regulators of contact-
 %   dependent intercellular transfer. Sci. Rep. 5, 12879; doi: 10.1038/srep12879 (2015).
 %
-%   All types of commercial use of TransQuant and DonorFind must be granted by the authors of this publication.  	
+%   All types of commercial use of TransQuant and DonorFind must be granted by the authors of this publication
+%   patents are pending.  	
 %
 %   =======================================================================================
