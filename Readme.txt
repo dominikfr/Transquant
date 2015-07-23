@@ -1,5 +1,5 @@
 %
-%   W E L C O M E   T O   TRANSQUANT
+%   W E L C O M E   T O   TRANSQUANT (and DONORFIND)
 %   
 % 
 %   =======================================================================================
@@ -20,12 +20,12 @@
 %   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 %
 %  
-%   TransQaunt is strictly for academic purposes and non-commercial use. All academic usage 
+%   TransQaunt (and DonorFind) is strictly for academic purposes and non-commercial use. All academic usage 
 %   of TransQuant must include a reference to the following paper:
 %
 %   Frei, D.M. et al. Novel microscopy-based screening method reveals regulators of contact-
 %   dependent intercellular transfer. Sci. Rep. 5, 12879; doi: 10.1038/srep12879 (2015).
 %
-%   All types of commercial use of TransQuant must be granted by the authors of this publication.  	
+%   All types of commercial use of TransQuant (and DonorFind) must be granted by the authors of this publication.  	
 %
 %   =======================================================================================
